@@ -1,5 +1,5 @@
 //your JS code here. If required.
-let element = document.getElementbyId("output");
+let element = document.getElementById("output");
 
 let promise = new Promise ((resolve) => {
 	setTimeout(() => {
